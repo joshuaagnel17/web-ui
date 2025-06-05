@@ -67,6 +67,8 @@ OPENROUTER_API_KEY=your-api-key-here
 python webui.py --ip 127.0.0.1 --port 7788
 ```
 
+## Demo
+
 ![Automation Demo](https://github.com/AloysJehwin/web-ui/blob/main/assets/f23068b0-1bb5-4d6e-beb7-ccd1f9acba5c-ezgif.com-crop.gif)
 
 ## Customize Your Automation
