@@ -81,7 +81,7 @@ Here’s an example prompt to automate job applications on LinkedIn using an AI 
 instructions:
   goal: "Automatically apply to all LinkedIn jobs that support 'Easy Apply' for Aloys Jehwin using the highlighted resume, skipping optional fields, and answering required fields just as shown in the video."
   steps:
-    - Go to: "https://www.linkedin.com/jobs/search/?f_AL=true&keywords=software%20engineer"
+    - Go to: "<Your LinkedIn Url for starter>"
     - For each job listing:
         - Click on the job to open its detail panel.
         - Wait for the job panel to fully load.
